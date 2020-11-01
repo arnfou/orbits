@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Orbital Marketing
-  - link: "/operations"
+  - link: "/marketing-operations"
     link_text: Operations
   - link: "/paid-marketing"
     link_text: Paid Marketing
