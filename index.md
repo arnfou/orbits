@@ -28,7 +28,7 @@ page_sections:
   content: 'Orbital Marketing takes over your marketing accounts on Paid Search or
     Paid Social and do the operational work for you. '
   media:
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: ''
     image: ''
 - template: content-feature
   block: feature-1
