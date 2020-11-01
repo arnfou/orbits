@@ -11,8 +11,8 @@ page_sections:
     link_text: Orbital Marketing
   - link: "/operations"
     link_text: Operations
-  - link: "#customize"
-    link_text: Customize
+  - link: "/paid-marketing"
+    link_text: Paid Marketing
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
