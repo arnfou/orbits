@@ -13,8 +13,8 @@ page_sections:
     link_text: Operations
   - link: "/paid-marketing"
     link_text: Paid Marketing
-  - link: "#responsive"
-    link_text: Responsive
+  - link: organic-marketing
+    link_text: Organic Marketing
   - link: "#blocks"
     link_text: Blocks
   cta:
