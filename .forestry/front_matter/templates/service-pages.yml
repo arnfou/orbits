@@ -1,4 +1,13 @@
 ---
 label: service-pages
 hide_body: false
-fields: []
+fields:
+- name: service_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Service description
