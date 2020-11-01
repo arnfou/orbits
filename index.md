@@ -18,8 +18,8 @@ page_sections:
   - link: "/marketing-blog"
     link_text: Blog
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: "/contact-form"
+    button_text: Contact Us
 - template: hero-banner-w-image
   block: hero-2
   slug: features
