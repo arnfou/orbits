@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Orbital Marketing
   - link: "#swap"
-    link_text: Swap
+    link_text: Operations
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
